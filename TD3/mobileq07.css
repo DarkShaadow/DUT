@@ -1,0 +1,26 @@
+body {
+font-family : Arial, sans-serif;
+}
+
+h1 {
+background-color : rgb(107, 91, 149);
+color : white;
+}
+
+h2 {
+background-color : lightgrey;
+color : rgb(107, 91, 149);
+}
+
+ol {
+list-style-type : lower-roman;
+}
+
+ul {
+list-style-type : square;
+}
+
+dt {
+color : rgb(107, 91, 149);
+font-variant : small-caps;
+}

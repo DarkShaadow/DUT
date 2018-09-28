@@ -1,0 +1,36 @@
+body {
+font-family : Arial, sans-serif;
+}
+
+table, th, td {
+border-collapse : collapse;
+}
+
+thead th {
+background-color : lightgrey;
+color : black;
+}
+
+thead, th {
+font-weight : 500;
+}
+
+tbody, th {
+color : black;
+background-color : lightgrey;
+border : 1px solid #2E4A62;
+}
+
+td {
+background-color : white;
+border : 1px solid #2E4A62;
+}
+
+caption, table {
+border : 3px solid #2E4A62;
+}
+
+caption {
+background-color : #2E4A62;
+color : lightgrey;
+}

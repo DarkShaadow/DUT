@@ -1,0 +1,26 @@
+body {
+font-family : Arial, sans-serif;
+}
+
+h1 {
+background-color : rgb(107, 91, 149);
+color : white;
+}
+
+h2 {
+background-color : lightgrey;
+color : rgb(107, 91, 149);
+}
+
+ul {
+list-style-image : url('images/petitchien.jpg');
+}
+
+dt {
+color : rgb(107, 91, 149);
+font-style : italic;
+}
+
+dd, dl {
+font-style : italic;
+}

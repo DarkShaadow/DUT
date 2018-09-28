@@ -1,0 +1,7 @@
+body {
+background-color : lightgrey;
+background-image : url('images/chat.jpg'), url('images/chien.jpg');
+background-repeat : repeat-y, repeat-x;
+background-position : right, bottom;
+background-size : 60px, 70px;
+}

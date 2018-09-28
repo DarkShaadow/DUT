@@ -1,0 +1,15 @@
+body {
+background-color : lightgrey;
+}
+
+a {
+color : green;
+}
+
+section {
+background-color : orange;
+}
+
+nav, article {
+background-color : white;
+}

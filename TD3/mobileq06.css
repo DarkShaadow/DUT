@@ -1,0 +1,32 @@
+html {
+font-family : Arial, sans-serif;
+}
+
+header, footer {
+background-color : #BD3D3A;
+color : white;
+}
+
+aside {
+background-color : #E47A2E;
+color : white;
+}
+
+a:link {
+text-decoration : none;
+color : white;
+}
+
+section {
+text-align : justify;
+background-color : #EAE6DA;
+}
+
+article {
+background-color : white;
+}
+
+article table, article th, article td {
+border : 1px solid black;
+border-collapse : collapse;
+}

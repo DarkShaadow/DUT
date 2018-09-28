@@ -1,0 +1,35 @@
+body {
+background-color : lightgrey;
+font-family : Arial, sans-serif;
+}
+
+nav {
+color : white;
+background-color : #2E4A62;
+}
+
+section {
+background-color : white;
+background-image : url('images/chat.jpg');
+background-repeat : no-repeat;
+background-position : center center;
+background-attachment : fixed;
+}
+
+article {
+background-color : rgba(209, 184, 148, 0.3);
+}
+
+article a {
+color : brown;
+font-style : italic;
+}
+
+header a {
+background-color : white;
+text-decoration : none;
+}
+
+header h1 {
+font-weight : 500;
+}
