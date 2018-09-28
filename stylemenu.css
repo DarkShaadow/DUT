@@ -1,6 +1,6 @@
 @font-face {
-font-family : "Vermin";
-src : url("Police1.TTF") format("TrueType");
+font-family : "Police";
+src : url("Police/Police1.TTF") format("TrueType");
 }
 
 body {
@@ -8,8 +8,10 @@ background-color : #F5EED2;
 }
 
 h1 {
-font-family : "Vermin", Arial, sans-serif;
+font-family : "Police", Arial, sans-serif;
 font-size : 48px;
+color : #310099;
+text-align : center;
 }
 
 li ul li {
