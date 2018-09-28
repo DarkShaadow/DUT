@@ -27,16 +27,16 @@ b {
 color : #458890;
 }
 
-li a:link, li a:visited {
+a:link, a:visited {
 color : #0B1C29;
 }
 
-li a:hover {
+a:hover {
 background-color : #5EADBF;
 color : #1C66A6;
 }
 
-li a {
+a {
 display : block;
 text-decoration : none;
 }

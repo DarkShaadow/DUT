@@ -1,0 +1,10 @@
+﻿td, th {
+border: thin solid #0161D0;
+width: 1%;
+}
+
+table {
+border: thin solid #000000;
+text-align: center;
+padding: 2px;
+}
