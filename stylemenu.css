@@ -1,0 +1,42 @@
+@font-face {
+font-family : "Vermin";
+src : url("Police1.TTF") format("TrueType");
+}
+
+body {
+background-color : #F5EED2;
+}
+
+h1 {
+font-family : "Vermin", Arial, sans-serif;
+font-size : 48px;
+color : #310099;
+text-align : center;
+}
+
+li ul li {
+display : inline-block;
+background-color : #7BACA7;
+border : 2px dashed #458890;
+width : 110px;
+text-align : center;
+margin : 2px;
+}
+
+b {
+color : #458890;
+}
+
+a:link, a:visited {
+color : #0B1C29;
+}
+
+a:hover {
+background-color : #5EADBF;
+color : #1C66A6;
+}
+
+a {
+display : block;
+text-decoration : none;
+}
